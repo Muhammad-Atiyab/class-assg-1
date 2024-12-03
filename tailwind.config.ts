@@ -8,6 +8,9 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        "bg-img" : "url('/ai-bgimg')"
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
