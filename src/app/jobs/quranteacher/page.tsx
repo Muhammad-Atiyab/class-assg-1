@@ -1,7 +1,7 @@
-import { error } from "console"
+// import { error } from "console"
 
 export default function QuranTeacher() {
-    throw new Error ('Not Implemented Yet')
+    /*throw new Error ('Not Implemented Yet')*/
 
     
     return(
